@@ -1,0 +1,18 @@
+@media (max-width:800px) {
+    #ust {
+        display: flex;
+        flex-direction: column;
+        row-gap: 15px;
+
+    }
+
+    #addTodo {
+        padding: 5px 0;
+    }
+
+    #temizle {
+        font-size: 16px;
+        padding: 5px 4px;
+    }
+
+}
